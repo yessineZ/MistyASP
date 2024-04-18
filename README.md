@@ -7,7 +7,6 @@ MistyWeb is a web application for managing games with built-in user authenticati
 - **Image Upload**: Users can upload images for each game.
 - **Validation**: Input validation ensures data integrity and prevents invalid data entry.
 - **User Authentication**: Secure user authentication using ASP.NET Core Identity.
-- **Role-based Authorization**: Different user roles (e.g., admin, regular user) with access control to specific features.
 - **Responsive Design**: The application is responsive and works well on various devices and screen sizes.
 
 ## Technologies Used:
