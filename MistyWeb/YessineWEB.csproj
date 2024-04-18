@@ -29,6 +29,7 @@
   <ItemGroup>
     <ProjectReference Include="..\misty.DataAccess\yessine.DataAccess.csproj" />
     <ProjectReference Include="..\misty.Models\yessine.Models.csproj" />
+    <ProjectReference Include="..\misty.Utility\yessine.Utility.csproj" />
   </ItemGroup>
 
   <ItemGroup>
