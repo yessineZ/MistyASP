@@ -20,8 +20,13 @@ MistyWeb is a web application for managing games with built-in user authenticati
 ## Design:
 Here are some screenshots of the MistyWeb application:
 
-![Screenshot 1](/screenshots/screenshot1.png)
-![Screenshot 2](/screenshots/screenshot2.png)
+![Screenshot 1](/screenShots/image1.png)
+![Screenshot 2](/screenShots/image2.webp)
+![Screenshot 3](/screenShots/image3.webp)
+![Screenshot 4](/screenShots/image4.webp)
+![Screenshot 5](/screenShots/details.webp)
+![Screenshot 6](/screenShots/login.webp)
+![Screenshot 7](/screenShots/registre.webp)
 ...
 
 ## Usage:
